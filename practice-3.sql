@@ -15,6 +15,6 @@
 Select neighborhood
 From listings
 Group by neighborhood
-Limit 10
+Limit 10;
 
 

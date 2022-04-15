@@ -21,4 +21,4 @@
 
 Select URL, accommodates 
 From listings
-Where accommodates =16
+Where accommodates =16;

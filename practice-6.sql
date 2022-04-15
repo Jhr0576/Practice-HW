@@ -19,4 +19,4 @@ Select listings.neighborhood, Count(*)
 From listings
 Inner join reviews On reviews.listing_id = listings.id 
 Group by listings.neighborhood
-Limit 13 
+Limit 13; 

@@ -15,6 +15,6 @@
 Select property_type, Count(id)
 From listings 
 Where neighborhood = "Hyde Park"
-Group by property_type
+Group by property_type;
 
 

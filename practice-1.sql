@@ -5,5 +5,5 @@
 -- +----------+
 
 Select Count(id)
-From reviews
+From reviews;
 
