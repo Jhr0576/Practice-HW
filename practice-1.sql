@@ -4,4 +4,6 @@
 -- | 302750   |
 -- +----------+
 
+Select Count(id)
+From reviews
 
