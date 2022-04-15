@@ -6,5 +6,5 @@
 
 Select Count(id)
 From listings
-Where neighborhood = "lincoln park";
+Where neighborhood = "Lincoln Park";
 
